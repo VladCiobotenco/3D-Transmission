@@ -13,7 +13,7 @@ This project involves the design and functional simulation of a 4-speed manual t
 | :--- | :--- |
 | **Gear Type** | Spur (for high torque & low noise) |
 | **Reference Gearbox** | Getrag MMT6 (6-Speed Manual) |
-| **Output Shaft** | 15mm Hexagonal |
+| **Output Shaft** | 15mm Circular |
 | **Shifting Mechanism** | Sliding Dog Clutch |
 
 ---
