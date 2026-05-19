@@ -24,9 +24,9 @@ To maintain authenticity, the model utilizes the factory ratios of the Ford Mond
 | Gear | Ratio | Tooth Count Example (Approximated) |
 | :--- | :--- | :--- |
 | **1st Gear** | **3.231 : 1** | 13T Driver / 42T Driven |
-| **2nd Gear** | **1.952 : 1** | 21T Driver / 41T Driven |
-| **3rd Gear** | **1.321 : 1** | 28T Driver / 37T Driven |
-| **4th Gear** | **1.029 : 1** | 32T Driver / 33T Driven |
+| **2nd Gear** | **1.952 : 1** | 18T Driver / 37T Driven |
+| **3rd Gear** | **1.321 : 1** | 23T Driver / 32T Driven |
+| **4th Gear** | **1.029 : 1** | 27T Driver / 28T Driven |
 
 ---
 
