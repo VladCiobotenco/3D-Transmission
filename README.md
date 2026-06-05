@@ -96,11 +96,21 @@ The transmission design employs a **constant mesh architecture** where all gear 
 
 ---
 
+## 🎞️ Renders
+
+Both gearbox variants (which differ in the layshaft) were rendered using Fusion 360’s built‑in rendering tools. Realistic materials were applied to enhance visual authenticity.
+
+![image](Render-c.jpg)
+
+![image](Render-sq.png)
+
+---
+
 ## 🛠️ Components & Parts List
 
 | Part Name | Quantity | Material | Purpose | Notes |
 | :--- | :--- | :--- | :--- | :--- |
-| Countershaft | 1 | Metal | Intermediate torque transfer | Carries 4 driving gears |
+| Layshaft | 1 | Metal | Intermediate torque transfer | Carries 4 driving gears |
 | Mainshaft | 1 | Metal | Power output | output to drivetrain |
 | 1st Gear Pair | 1 set | Metal | 3.230:1 reduction | 13T & 42T |
 | 2nd Gear Pair | 1 set | Metal | 2.055:1 reduction | 18T & 37T |
@@ -128,7 +138,7 @@ The transmission design employs a **constant mesh architecture** where all gear 
 - **Autodesk Fusion 360** - CAD modeling and motion simulation
 - **Autodesk Slicer for Fusion 360** - STL file generation
 - **Prusa Slicer** - G-code generation for 3D printing
-- 
+  
 ---
 
 ## 📖 Design Notes & Considerations
